@@ -54,9 +54,10 @@ Pin number 5 in WiringPi is used select mode of operation.
 
 1 - 5X5 Mode
 
-```bash
+
 
 ## License
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ```plaintext
